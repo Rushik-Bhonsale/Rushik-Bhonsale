@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rushik-Bhonsale
+- 👋 Hi, I’m @Rushik-Ch
 - 👀 I’m interested in astrology
 - 🌱 I’m currently learning data structures
 - 💞️ I’m looking to collaborate with companies providing internships and oppurtunities  ...
